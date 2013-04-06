@@ -1,0 +1,4 @@
+z : integer
+&
+z :=0;
+out ( z )
